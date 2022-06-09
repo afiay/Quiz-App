@@ -46,7 +46,7 @@ Google Developer Tools<br>
 I used responsivedesignchecker.com to make sure that all my pages are responsive to all devices.
 
 
-# W3C Validator Tools
+### W3C Validator Tools
 
 # HTML and CSS Validador:
 I used W3C Markup to check for any errors within the HTML pages.
