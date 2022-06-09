@@ -42,13 +42,13 @@ The project uses JavaScript.
 Google Developer Tools<br>
  For every step along the project developement i have inspect and edited the style using Google developer tools. I also checked the accessibility of the page using Lighthouse.
  <p align="center"><img src="./readme_assets/lighthouse.jpg"></p>
- # Responsive Tools
+
+# Responsive Tools
 I used responsivedesignchecker.com to make sure that all my pages are responsive to all devices.
 
 
 ### W3C Validator Tools
 
-# HTML and CSS Validador:
 I used W3C Markup to check for any errors within the HTML pages.
 
  The live link can be found here - https://afiay.github.io/Quiz-App/
